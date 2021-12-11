@@ -1,3 +1,9 @@
+kurento-media-server (7.0.0-1~debify11+3) debify-bullseye; urgency=medium
+
+  * Build for debify-bullseye.
+
+ -- Daniel Pocock <daniel@pocock.pro>  Sat, 11 Dec 2021 14:28:04 +0100
+
 kurento-media-server (7.0.0-1~debify11+2) debify-bullseye; urgency=medium
 
   * Patch for JSON CEE.
